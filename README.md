@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DatPhanNexor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://trophy.ryglcloud.net/?username=DatPhanNexor&theme=darkhub&no-frame=false&no-bg=true&column=6&row=1&margin-w=5&margin-h=5&title=Commits,Repositories,PullRequest,Issues,Stars,Experience)
+![](https://trophy.ryglcloud.net/?username=DatPhanNexor&theme=darkhub&no-frame=false&no-bg=false&column=6&row=1&margin-w=5&margin-h=5&title=Commits,Repositories,PullRequest,Issues,Stars,Experience)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
